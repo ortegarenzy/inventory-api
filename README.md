@@ -1,6 +1,7 @@
 A simple REST API for inventory management using MySQL database
 
 TODO
+
 [] User management
 [] Category Management
 
