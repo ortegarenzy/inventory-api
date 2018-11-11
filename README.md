@@ -2,8 +2,9 @@ A simple REST API for inventory management using MySQL database
 
 TODO
 
-[] User management
-[] Category Management
+[ ] User management
+
+[ ] Category Management
 
 ## INSTALL DEPENDENCIES
 ```bash
